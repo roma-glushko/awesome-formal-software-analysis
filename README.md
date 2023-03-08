@@ -9,6 +9,7 @@
 * [TLA+ - a high-level language for modeling programs and systems--especially concurrent and distributed ones](http://lamport.azurewebsites.net/tla/tla.html?from=https://research.microsoft.com/en-us/um/people/lamport/tla/tla.html&type=path)
 * [Dafny - a verification-aware programming language that has native support for recording specifications and is equipped with a static program verifier.](https://dafny.org/)
 * [Spin - an open-source multi-threaded software verification tool](https://spinroot.com/spin/whatispin.html)
+* [SimPy - a process-based discrete-event simulation framework based on standard Python](https://simpy.readthedocs.io/en/latest/)
 
 ## Resources
 
