@@ -1,4 +1,4 @@
-# Awesome Formal Software Analysis
+# Awesome Formal Software Analysis and Modeling
 
 📐 A list of projects that helps to formally analyse, model and asses complex software systems.
 
