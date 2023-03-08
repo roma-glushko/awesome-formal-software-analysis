@@ -32,3 +32,4 @@
 ## Misc
 
 * [SimPy - a process-based discrete-event simulation framework based on standard Python](https://simpy.readthedocs.io/en/latest/)
+* [PRISM - a probabilistic model checker, a tool for formal modelling and analysis of systems that exhibit random or probabilistic behaviour](https://www.prismmodelchecker.org/)
