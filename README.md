@@ -11,8 +11,13 @@
 * [Spin - an open-source multi-threaded software verification tool](https://spinroot.com/spin/whatispin.html)
 * [SimPy - a process-based discrete-event simulation framework based on standard Python](https://simpy.readthedocs.io/en/latest/)
 
-## Resources
+## Expirience
 
 * [How Amazon Web Services Uses Formal Methods](https://cacm.acm.org/magazines/2015/4/184701-how-amazon-web-services-uses-formal-methods/abstract)
 * [Using lightweight formal methods to validate a key-value storage node in Amazon S3](https://www.amazon.science/publications/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3)
 * [Using Lightweight Modeling (via Alloy) To Understand Chord](http://www.pamelazave.com/chord-ccr.pdf)
+
+## Learn
+
+* [Learn TLA+](https://www.learntla.com/index.html)
+* [Leanring TLA+ (Official Resources)](https://lamport.azurewebsites.net/tla/learning.html)
