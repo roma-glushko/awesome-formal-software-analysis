@@ -4,12 +4,17 @@
 
 ## Frameworks
 
+### Desing Level
+
 * [Alloy - an open source language and analyzer for software modeling. Used in a wide range of applications from finding holes in security mechanisms to designing telephone switching networks](https://alloytools.org/)
 * [P Lang - Formal Modeling and Analysis of Distributed Systems](https://p-org.github.io/P/)
 * [TLA+ - a high-level language for modeling programs and systems--especially concurrent and distributed ones](http://lamport.azurewebsites.net/tla/tla.html?from=https://research.microsoft.com/en-us/um/people/lamport/tla/tla.html&type=path)
-* [Dafny - a verification-aware programming language that has native support for recording specifications and is equipped with a static program verifier.](https://dafny.org/)
 * [Spin - an open-source multi-threaded software verification tool](https://spinroot.com/spin/whatispin.html)
-* [SimPy - a process-based discrete-event simulation framework based on standard Python](https://simpy.readthedocs.io/en/latest/)
+* [Event-B - a formal method for system-level modelling and analysis. Key features of Event-B are the use of set theory as a modelling notation, the use of refinement to represent systems at different abstraction levels and the use of mathematical proof to verify consistency between refinement levels.](http://www.event-b.org/index.html)
+
+### Code-Level
+
+* [Dafny - a verification-aware programming language that has native support for recording specifications and is equipped with a static program verifier.](https://dafny.org/)
 
 ## Expirience
 
@@ -22,3 +27,7 @@
 
 * [Learn TLA+](https://www.learntla.com/index.html)
 * [Leanring TLA+ (Official Resources)](https://lamport.azurewebsites.net/tla/learning.html)
+
+## Misc
+
+* [SimPy - a process-based discrete-event simulation framework based on standard Python](https://simpy.readthedocs.io/en/latest/)
