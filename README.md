@@ -11,6 +11,7 @@
 * [TLA+ - a high-level language for modeling programs and systems--especially concurrent and distributed ones](http://lamport.azurewebsites.net/tla/tla.html?from=https://research.microsoft.com/en-us/um/people/lamport/tla/tla.html&type=path)
 * [Spin - an open-source multi-threaded software verification tool](https://spinroot.com/spin/whatispin.html)
 * [Event-B - a formal method for system-level modelling and analysis. Key features of Event-B are the use of set theory as a modelling notation, the use of refinement to represent systems at different abstraction levels and the use of mathematical proof to verify consistency between refinement levels.](http://www.event-b.org/index.html)
+* [mCRL2 - a formal specification language with an associated toolset for modelling, validation and verification of concurrent systems and protocols](https://www.mcrl2.org/web/user_manual/index.html)
 
 ### Code-Level
 
