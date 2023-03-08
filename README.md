@@ -16,6 +16,7 @@
 * [How Amazon Web Services Uses Formal Methods](https://cacm.acm.org/magazines/2015/4/184701-how-amazon-web-services-uses-formal-methods/abstract)
 * [Using lightweight formal methods to validate a key-value storage node in Amazon S3](https://www.amazon.science/publications/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3)
 * [Using Lightweight Modeling (via Alloy) To Understand Chord](http://www.pamelazave.com/chord-ccr.pdf)
+* [Exploring TLA+ with two-phase commit](https://brooker.co.za/blog/2013/01/20/two-phase.html)
 
 ## Learn
 
